@@ -1,0 +1,15 @@
+h1{
+    font-size: 100px;
+    background-color: #ff0000;
+    text-align: center;
+}
+h2{
+    font-size: 80px;
+    background-color: aquamarine;
+    text-align: center;
+}
+p{
+    font-size: 100px;
+    background-color: blue;
+    padding-left: 50%;
+}
